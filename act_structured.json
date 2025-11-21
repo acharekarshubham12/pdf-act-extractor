@@ -1,0 +1,32 @@
+{
+    "definitions": {
+        "consumer prices index": "means the all items consumer prices index published by the Statistics Board",
+        "relevant power": "means the power in section 9(2) of the Welfare Reform Act 2012, or the power in section 150(2)(b) of the Social Security Administration Act 1992",
+        "standard allowance": "means the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012",
+        "tax year": "means the 12 months beginning with 6 April in any year",
+        "pre-2026 claimant": "has the meaning in regulation 27A(1)",
+        "severe conditions criteria claimant": "has the meaning in regulation 40A(2)"
+    },
+    "obligations": {
+        "Secretary of State": "must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with specified steps",
+        "Department for Communities in Northern Ireland": "must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year"
+    },
+    "responsibilities": {
+        "Secretary of State": "must exercise powers to increase the protected LCWRA amount or any standard allowance amount for specific tax years to achieve certain financial outcomes for claimants",
+        "Department for Communities in Northern Ireland": "must exercise powers to increase the protected LCWRA amount or amounts of the standard allowance for tax years as necessary"
+    },
+    "eligibility": {
+        "pre-2026 claimant": "must have been entitled at any time before 6 April 2026 to an award of universal credit that included the LCWRA element and has been entitled continuously since then",
+        "severe conditions criteria claimant": "must have a determination based on assessment indicating severe conditions criteria applying to them"
+    },
+    "payments": {
+        "standard allowance": "amounts calculated by specific steps involving previous tax years and CPI adjustments as outlined in the provisions",
+        "LCWRA element": "amounts explicitly defined for claimants with limited capability for work and related conditions"
+    },
+    "penalties": {
+        "non-compliance": "subsections of section 150 of the Social Security Administration Act do not apply for specified tax years regarding annual up-rating of certain benefits like LCWRA and LCW elements"
+    },
+    "record_keeping": {
+        "assessment periods": "must be documented in accordance with provisions and have the same meaning as in the references of the relevant Acts"
+    }
+}

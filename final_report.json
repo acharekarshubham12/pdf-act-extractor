@@ -1,0 +1,10 @@
+{
+    "checks": {
+        "defines_key_terms": true,
+        "specifies_eligibility": true,
+        "specifies_authority_responsibilities": true,
+        "includes_enforcement_or_penalties": true,
+        "includes_payments_entitlements": true,
+        "includes_record_keeping_reporting": true
+    }
+}
